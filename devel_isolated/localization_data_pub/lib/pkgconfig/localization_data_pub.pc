@@ -1,0 +1,8 @@
+prefix=/home/wcm-mob/catkin_ws/devel_isolated/localization_data_pub
+
+Name: localization_data_pub
+Description: Description of localization_data_pub
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

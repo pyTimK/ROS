@@ -1,0 +1,8 @@
+prefix=/home/wcm-mob/catkin_ws/install
+
+Name: go_to_goal_turtlesim
+Description: Description of go_to_goal_turtlesim
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

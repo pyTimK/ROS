@@ -1,0 +1,7 @@
+jetson_nano_bot/localization_data_pub
+/home/wcm-mob/catkin_ws/devel/.private/localization_data_pub/cmake.lock /home/wcm-mob/catkin_ws/devel/./cmake.lock
+/home/wcm-mob/catkin_ws/devel/.private/localization_data_pub/lib/localization_data_pub/rviz_click_to_2d /home/wcm-mob/catkin_ws/devel/lib/localization_data_pub/rviz_click_to_2d
+/home/wcm-mob/catkin_ws/devel/.private/localization_data_pub/lib/localization_data_pub/ekf_odom_pub /home/wcm-mob/catkin_ws/devel/lib/localization_data_pub/ekf_odom_pub
+/home/wcm-mob/catkin_ws/devel/.private/localization_data_pub/lib/pkgconfig/localization_data_pub.pc /home/wcm-mob/catkin_ws/devel/lib/pkgconfig/localization_data_pub.pc
+/home/wcm-mob/catkin_ws/devel/.private/localization_data_pub/share/localization_data_pub/cmake/localization_data_pubConfig.cmake /home/wcm-mob/catkin_ws/devel/share/localization_data_pub/cmake/localization_data_pubConfig.cmake
+/home/wcm-mob/catkin_ws/devel/.private/localization_data_pub/share/localization_data_pub/cmake/localization_data_pubConfig-version.cmake /home/wcm-mob/catkin_ws/devel/share/localization_data_pub/cmake/localization_data_pubConfig-version.cmake

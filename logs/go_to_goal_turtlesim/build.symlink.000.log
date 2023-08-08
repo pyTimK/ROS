@@ -1,0 +1,6 @@
+Symlinking /home/wcm-mob/catkin_ws/devel/lib/go_to_goal_turtlesim/waypoint_publisher
+Symlinking /home/wcm-mob/catkin_ws/devel/lib/go_to_goal_turtlesim/go_to_goal_x
+Symlinking /home/wcm-mob/catkin_ws/devel/lib/go_to_goal_turtlesim/go_to_goal_x_y
+Symlinking /home/wcm-mob/catkin_ws/devel/lib/pkgconfig/go_to_goal_turtlesim.pc
+Symlinking /home/wcm-mob/catkin_ws/devel/share/go_to_goal_turtlesim/cmake/go_to_goal_turtlesimConfig.cmake
+Symlinking /home/wcm-mob/catkin_ws/devel/share/go_to_goal_turtlesim/cmake/go_to_goal_turtlesimConfig-version.cmake

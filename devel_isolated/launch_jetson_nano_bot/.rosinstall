@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/wcm-mob/catkin_ws/devel_isolated/launch_jetson_nano_bot/setup.sh

@@ -1,0 +1,3 @@
+Symlinking /home/wcm-mob/catkin_ws/devel/lib/pkgconfig/navstack_pub.pc
+Symlinking /home/wcm-mob/catkin_ws/devel/share/navstack_pub/cmake/navstack_pubConfig-version.cmake
+Symlinking /home/wcm-mob/catkin_ws/devel/share/navstack_pub/cmake/navstack_pubConfig.cmake

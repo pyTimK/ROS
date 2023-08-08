@@ -1,0 +1,6 @@
+image: /home/wcm-mob/catkin_ws/src/jetson_nano_bot/navstack_pub/maps/floorplan4_2.pgm
+resolution: 0.500000
+origin: [-1,-1, 0.000000]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
